@@ -62,9 +62,9 @@ flutter:
   # example:
   # fonts:
   fonts:
-    - family: CoreSans
+    - family: ConcertOne
       fonts:
-        - asset: lib/assets/fonts/CoreSans.otf
+        - asset: lib/assets/fonts/ConcertOne-Regular.ttf
        
   #- family: CoreSans
   #     fonts:

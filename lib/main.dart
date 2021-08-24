@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Volley App',
       theme: ThemeData(
-        fontFamily: 'CoreSans',
+        fontFamily: 'ConcertOne',
       ),
       home: Home(),
     );
